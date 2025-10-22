@@ -10,6 +10,7 @@ Leveraging the awesome [WinDivert](http://reqrypt.org/windivert.html), clumsy st
 * Works even if you're offline (ie, connecting from localhost to localhost).
 * Your application keeps running, while clumsy can start and stop anytime.
 * Interactive control how bad the network can be, with enough visual feedback to tell you what's going on.
+* Added keybind f5 to start f6 to stop
 
 See [this page](http://jagt.github.io/clumsy) for more info and build instructions.
 
